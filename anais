@@ -1,0 +1,40 @@
+﻿<html>
+	<head>
+		<meta charset="utf-8" />
+		<link rel="stylesheet" href="./css/styles.css" />
+		<title>Lettre de motivation pour l'IUT MMI</title>
+	</head>
+	
+<body>
+    <header id="header">
+        <img id="image" src="./img/logo.png" />		
+		<div id="titres">
+			<h1><em>BUT Métiers du Mutimédia de l'Internet</em></h1>
+			<h2><mark><em>Lettre de motivation pour le BUT MMI</mark></em></h2>
+		</div>
+    </header>
+	<div id="texte">
+		<p>Bonjour Madame, Monsieur,</p>
+		<p>Je suis actuellement en terminale STI2D option SIN (Système d'Information et Numérique) au lycée Louise Michel à Narbonne et je souhaite intégrer votre établissement afin de réaliser un <strong>BUT MMI</strong>.</p>
+	
+		<h3><mark><em>Pourquoi votre école ?</mark></em></h3>
+		<p> Aprés la journée portes ouvertes du samedi 5 Février, j'ai eu un coup de coeur pour votre établissement, plus particulièrement pour la filière MMI.<br/>
+		J'ai donc eu l'occasion de visiter l'IUT et les différentes salles comme la salle de fond vert qui m'a beaucoup plu et où j'ai pu prendre une photo.</p>
+		 <img id="image" src="./img/jpo.jpg" class= "MMI"/>
+		<h3><mark><em>Mes qualités</mark></em></h3>
+		<p>J'aime beaucoup l'infographie et l'audiovisuel, je suis donc tout particulièrement attirée par le BUT MMI.<br/>
+		Je suis une élève sportive, sérieuse, curieuse et motivée. J'aime travailler en groupe mais je suis également autonome.</p>
+	
+		<h3><mark><em>Mes projets</mark></em></h3>
+		<p>J'ai pour objectif de créer mon agence de communication et de me lancer sur les réseaux sociaux pour me créer une communauté. <br/>
+			Je pense que votre formation est la plus adaptée pour mon projet, mon grand-frère ayant lui aussi fait un DUT MMI à Castres a eu l'occasion de me partager son expérience et les cours enseignés. <br>
+			Il m'a notamment parlé des cours centrés sur les réseaux-sociaux et d'infographies.Je souhaite intgrer l'IUT de Beziers car il y a des matières qu'il n'y a pas à Castres comme le montage vidéo. De plus le BUT MMI me semble assez généraliste et permet d'acquérir des compétences de divers domaines, ce qu'il me semble essentiel afin de créer sa propre entreprise.</p>
+	
+		<h3><mark><em>En savoir plus sur moi</mark></em></h3>
+		<p>J'ai eu l'occasion de participer au projet jeunes reporters lors de mes années de collège avec l'UNSS Basket-Ball. Ce projet avait pour but d'interviewer des joueurs de basket-ball professionnels à la fin de différents matchs. Lors de ces sorties j'avais pour mission de filmer, prendre des photos, faire des interviews et de réaliser un montage vidéo afin d'illustrer ces journées sportives qui étaient publiées sur le facebook du collège.Voilà le lien de mon tout premier montage video <a href="https://fb.watch/bPsqhAuNJb/" title="Premier montage vidéo">Premier montage vidéo</a><br/>
+			Grâce à ce projet nous avons pu aller à New York, ce voyage m'a permis de découvrir un autre pays et d'assister à des matchs de NBA. Une fois ce voyage terminé, nous avons réalisé une vidéo que nous avons ensuite présenté à la préfecture de l'Aude.<br/>
+		Je fais également du basket-ball dans une équipe féminine de niveau pré-nationale à Carcassonne.</p>
+		 <h3><mark><em>Où me loger?</mark></em></h3>
+		<p> Malgré le fait que j'habite à proximité de Béziers je souhaite tout de même partir du cocon familial et avoir mon propre appartement afin d'augmenter mon autonomie et prendre mon envol.</p>
+     </div>
+</body>
